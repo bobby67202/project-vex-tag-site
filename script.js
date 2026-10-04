@@ -1,1 +1,1 @@
-function downloadMessage(e){e.preventDefault();alert("Add your APK download link to the DOWNLOAD APK button in index.html.");}
+
